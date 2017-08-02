@@ -3,3 +3,5 @@
 Android Pull To Refresh Implementation with android.support.v4.widget.SwipeRefreshLayout
 
 Endless Scroll Listener Implementation with https://github.com/codepath/android_guides/wiki/Endless-Scrolling-with-AdapterViews-and-RecyclerView and a small addition from me
+
+![alt text](https://github.com/volkansahin45/PullToRefreshAndScrollListener/blob/master/gif/gif.gif)
